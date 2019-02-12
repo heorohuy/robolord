@@ -1,0 +1,22 @@
+{
+  "name": "robolord",
+  "version": "1.0.0",
+  "description": "Robo lord, the beginening",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heorohuy/robolord.git"
+  },
+  "author": "Gustavo Serrano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heorohuy/robolord/issues"
+  },
+  "homepage": "https://github.com/heorohuy/robolord#readme",
+  "dependencies": {
+    "robotjs": "^0.5.1"
+  }
+}
